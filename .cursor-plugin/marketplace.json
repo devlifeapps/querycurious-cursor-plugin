@@ -1,0 +1,17 @@
+{
+  "name": "lifeapps",
+  "owner": {
+    "name": "Lifeapps"
+  },
+  "metadata": {
+    "description": "Plugins da Lifeapps para consultar o BI da empresa no Cursor.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "querycurious",
+      "source": "./plugins/querycurious",
+      "description": "Consulta somente leitura ao data warehouse da empresa, com login no SSO Lifeapps."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "querycurious",
+  "displayName": "QueryCurious Lifeapps",
+  "version": "0.1.0",
+  "description": "Pergunte sobre vendas, clientes e pedidos da sua empresa. O Cursor entra no SSO Lifeapps e consulta o BI somente leitura, sem token manual.",
+  "author": {
+    "name": "Lifeapps"
+  },
+  "license": "MIT",
+  "keywords": ["lifeapps", "bi", "odata", "mcp", "vendas", "querycurious"],
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "querycurious": {
+      "url": "https://query-curious.lifeappsecommerce.com.br/mcp",
+      "auth": {
+        "CLIENT_ID": "cursor-querycurious-mcp",
+        "scopes": ["mcp:tools", "mcp:resources", "mcp:prompts"]
+      }
+    }
+  }
+}
